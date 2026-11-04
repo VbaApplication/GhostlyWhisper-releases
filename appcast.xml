@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"><channel><title>GhostlyWhisper</title></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>GhostlyWhisper</title>
+        <item>
+            <title>0.1.1</title>
+            <pubDate>Wed, 04 Nov 2026 20:04:48 +0100</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>Prima versione stabile con aggiornamenti Sparkle</p>
+]]></description>
+            <enclosure url="https://github.com/VbaApplication/GhostlyWhisper-releases/releases/download/v0.1.1/GhostlyWhisper-0.1.1.dmg" length="6649116" type="application/octet-stream" sparkle:edSignature="K9T0gSoTnBy2Nh/eRo/xlMZrac0sbXBfySHDYYty79nzAnKag6ZEYFfqxR2ARQEPEs7VSaSKrCxxuST+c80WBw=="/>
+        </item>
+    </channel>
+</rss>
