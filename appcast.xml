@@ -3,6 +3,17 @@
     <channel>
         <title>GhostlyWhisper</title>
         <item>
+            <title>0.1.2</title>
+            <pubDate>Thu, 05 Nov 2026 22:42:37 +0100</pubDate>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <description><![CDATA[<p>GhostlyWhisper 0.1.2</p>
+]]></description>
+            <enclosure url="https://github.com/VbaApplication/GhostlyWhisper-releases/releases/download/v0.1.2/GhostlyWhisper-0.1.2.dmg" length="6750866" type="application/octet-stream" sparkle:edSignature="vMffVwWL4QkW+eak4HZzoPD62zQVFpWakyXmmcPvoW/Kr1X2JLmix/7ii1rdUSpogYRQcPMbuzj7Ejw5zRPtAw=="/>
+        </item>
+        <item>
             <title>0.1.1</title>
             <pubDate>Wed, 04 Nov 2026 20:04:48 +0100</pubDate>
             <sparkle:version>36</sparkle:version>
